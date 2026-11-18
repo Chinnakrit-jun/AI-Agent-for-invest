@@ -1,5 +1,4 @@
 # 💼 Proactive Wealth Coach
-> **AI-Powered Autonomous Personal Wealth Copilot (SEA x OpenAI Hackathon)**  
 > ผู้ช่วยบริหารพอร์ตการลงทุนอัจฉริยะ • ใช้งานง่ายไม่ต้องรู้เรื่องโค้ด • คุมความเสี่ยงตามแนวคิด Smart Money ระดับโลก • พร้อมระบบ Self-Bootstrapping จบในไฟล์เดียว
 
 ---
